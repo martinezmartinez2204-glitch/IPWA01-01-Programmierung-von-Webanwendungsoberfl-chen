@@ -1,0 +1,18 @@
+# Assets Directory
+
+Dieses Verzeichnis enthält:
+- logo.png - Logo der Anwendung (aktuell Placeholder)
+- Weitere Bilder und Icons können hier hinzugefügt werden
+
+## Logo erstellen
+
+Ein einfaches Logo kann mit folgenden Tools erstellt werden:
+- Canva (canva.com)
+- Figma (figma.com)
+- Inkscape (kostenlos, open-source)
+- GIMP (kostenlos, open-source)
+
+Das Logo sollte:
+- Transparent sein (PNG-Format)
+- Mindestens 200x200px groß sein
+- In Weiß oder heller Farbe für den dunklen Header funktionieren

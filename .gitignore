@@ -1,0 +1,33 @@
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.sublime-project
+.sublime-workspace
+
+# Node (wenn später hinzugefügt)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build-Ausgaben
+dist/
+build/
+
+# Logs
+*.log
+
+# Abhängigkeiten
+/vendor/
+
+# Umgebungsvariablen
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+.DS_Store
